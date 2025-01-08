@@ -1,2 +1,2 @@
 # lektion-8-jan
-Datatyper, variabler, aritmetiska och tilldelningsoperatorer.
+Datatyper, variabler, aritmetiska och tilldelningsoperatorer
